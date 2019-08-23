@@ -1,0 +1,29 @@
+{
+  "name": "node-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "ts-node-dev src/index.ts",
+    "test": "ts-mocha test/**/*.ts"
+  },
+  "dependencies": {
+    "@types/express": "^4.16.0",
+    "apollo-server-express": "^2.8.2",
+    "graphql": "^14.4.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@types/expect": "^1.20.4",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "reflect-metadata": "0.1.12",
+    "sinon": "^7.4.1",
+    "ts-mocha": "^6.0.0",
+    "ts-node-dev": "^1.0.0-pre.41",
+    "typescript": "^3.5.3"
+  },
+  "keywords": []
+}
