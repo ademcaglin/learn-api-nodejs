@@ -18,7 +18,7 @@
     "@types/expect": "^1.20.4",
     "@types/mocha": "^5.2.7",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "reflect-metadata": "0.1.12",
     "sinon": "^7.4.1",
     "ts-mocha": "^6.0.0",
